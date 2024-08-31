@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  align-items: center;
+  overflow-wrap: normal;
+}
+h1 {
+  text-align: center;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input {
+  display: flex;
+  outline: none;
+  width: 500px;
+  height: 35px;
+  border: solid 2px;
+  border-radius: 8px;
+  color: #7b8794;
+  padding: 10px;
+}
+.ul-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.app-item {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,9 @@
+/* Write your CSS here */
+li{
+    padding: 10px;
+    list-style: none;
+}
+button{
+    border: none;
+    background-color: transparent;
+}
